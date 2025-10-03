@@ -30,11 +30,13 @@ CourseWay is an educational project that demonstrates how to build a RESTful API
    cd aCourseWay
 
 2. Create a .env file and add the following variables:
+   ```bash
    PORT=5000
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_secret_key
    
 3. Start the server:
+   ```bash
    npm start
 
 ## API Endpoints (Examples)
