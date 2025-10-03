@@ -49,7 +49,7 @@ CourseWay is an educational project that demonstrates how to build a RESTful API
 
 ### **Courses**
    - GET /api/courses
-   - GET /api/courses/:Id
+   - GET /api/courses/:id
    - POST /api/courses
    - PATCH /api/courses/:id
    - DELETE /api/courses/:id
