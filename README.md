@@ -5,7 +5,7 @@ CourseWay is an educational project that demonstrates how to build a RESTful API
 ---
 
 ## Features
-- User authentication (Register, Login, Logout) with JWT.
+- User authentication (Register, Login, Logout) with JWT. 
 - Course management (Add, Update, Delete, View).
 - Enroll/Unenroll students in courses.
 - Role-based access control (User & Admin).
