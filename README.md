@@ -27,7 +27,7 @@ CourseWay is an educational project that demonstrates how to build a RESTful API
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/aCourseWay.git
-   cd aCourseWay
+   cd CourseWay
 
 2. Create a .env file and add the following variables:
    ```bash
