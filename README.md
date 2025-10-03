@@ -39,6 +39,8 @@ CourseWay is an educational project that demonstrates how to build a RESTful API
    ```bash
    npm start
 
+---
+
 ## API Endpoints (Examples)
 ### **Auth**
 
@@ -51,6 +53,8 @@ CourseWay is an educational project that demonstrates how to build a RESTful API
    - POST /api/courses
    - PATCH /api/courses/:id
    - DELETE /api/courses/:id
+
+---
 
 ## Future Improvements
 
